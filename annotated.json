@@ -1,0 +1,654 @@
+{
+    "classes": [
+        "DISEASE NAME",
+        "SYMPTOM",
+        "TREATMENT"
+    ],
+    "annotations": [
+        [
+            "khunyu\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "kugwa chifufu ndi chizindikiro choti muubongomu katumizilidwe ka mauthenga sikakuyenda bwino zimenezi zimatenga kanthawi pangono mphindi zochepa chabe ngati munthu akugwa chifufu pafupi pafupi zimatanthauza kuti ali ndimatenda a khunyu\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        13,
+                        "SYMPTOM"
+                    ],
+                    [
+                        164,
+                        178,
+                        "SYMPTOM"
+                    ],
+                    [
+                        229,
+                        235,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "zizindikiro za khunyu ndi monga kugwa pansi kudziluma lilime kuuma thupi komanso kumazigwededza kwambiri kuyanganitsa maso ake mmwamba kutuluka thovu kukamwa kukodzedwa kapena kubibidwa kumene milomo yawo kusintha mtundu\r",
+            {
+                "entities": [
+                    [
+                        32,
+                        43,
+                        "SYMPTOM"
+                    ],
+                    [
+                        44,
+                        60,
+                        "SYMPTOM"
+                    ],
+                    [
+                        61,
+                        72,
+                        "SYMPTOM"
+                    ],
+                    [
+                        81,
+                        104,
+                        "SYMPTOM"
+                    ],
+                    [
+                        105,
+                        134,
+                        "SYMPTOM"
+                    ],
+                    [
+                        135,
+                        157,
+                        "SYMPTOM"
+                    ],
+                    [
+                        158,
+                        168,
+                        "SYMPTOM"
+                    ],
+                    [
+                        176,
+                        185,
+                        "SYMPTOM"
+                    ],
+                    [
+                        193,
+                        220,
+                        "SYMPTOM"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        [
+            "anthu amene amadwala matenda a khunyu asamasambe kapena kukasambira mumtsinje okha okha kapenanso kuphika pamoto kuopa kuti angadzipweteke okha\r",
+            {
+                "entities": [
+                    [
+                        31,
+                        37,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "anthu amene amadwala matenda a khunyu asamayendetse galimoto kapena kuyendetsa makina kuopesa kuti angadzivulaze okha kapenso kuvulaza anthu ena\r",
+            {
+                "entities": [
+                    [
+                        31,
+                        37,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "muyenera kumwa mankwala tsiku ndi tsiku kuti mupewe kugwa chifufu\r",
+            {
+                "entities": [
+                    [
+                        9,
+                        23,
+                        "TREATMENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "musasiye kapena kuchepesa mankhwala mwazizizi kuopetsa kugwa mowirikiza kapena kumwalira kumene\r",
+            {
+                "entities": [
+                    [
+                        26,
+                        35,
+                        "TREATMENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "adokotala angathe kuyesa kukusiyitsa mankhwala ngati mwakhala wosagwa chifufu pakati pa dzaka ziwiri ndi zitatu\r",
+            {
+                "entities": [
+                    [
+                        37,
+                        46,
+                        "TREATMENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "ngati chisankho chosiya mankhwala chapangidwa mulingo wa mankhwala uyenera kumachepetsedwa pangonopangono kwa miyezi ingapo musasiye kumwa mankhwala panokha popanda kuudzidwa ndi a dokotala\r",
+            {
+                "entities": [
+                    [
+                        24,
+                        33,
+                        "TREATMENT"
+                    ],
+                    [
+                        57,
+                        66,
+                        "TREATMENT"
+                    ],
+                    [
+                        133,
+                        148,
+                        "TREATMENT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "kutupa kwa chiwindi\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        19,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "kutupa kwa chiwindi ndi komwe kumayambitsidwa ndi ma virus osiyanasiyana opatsirana komanso osapatsirana omwe amatsogolera kumavuto osiyanasiyana azaumoyo ena omwe amatha kupha\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        19,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "anthu ambiri omwe ali ndi matenda a chiwindi a b c d kapena e amangokhala ndi zizindikiro zochepa kapena alibe zizindikiro\r",
+            {
+                "entities": [
+                    [
+                        26,
+                        61,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "zizindikiro za matenda a chiwindi a b ndi c zingaphatikizepo kutentha thupi kusafuna kudya kutsekula mmimba nseru kusamva bwino mmimba mkodzo wakuda ndi jaundice khungu lachikasu ndi maso oyera\r",
+            {
+                "entities": [
+                    [
+                        15,
+                        43,
+                        "DISEASE NAME"
+                    ],
+                    [
+                        61,
+                        75,
+                        "SYMPTOM"
+                    ],
+                    [
+                        76,
+                        90,
+                        "SYMPTOM"
+                    ],
+                    [
+                        91,
+                        107,
+                        "SYMPTOM"
+                    ],
+                    [
+                        108,
+                        113,
+                        "SYMPTOM"
+                    ],
+                    [
+                        114,
+                        134,
+                        "SYMPTOM"
+                    ],
+                    [
+                        135,
+                        148,
+                        "SYMPTOM"
+                    ],
+                    [
+                        162,
+                        178,
+                        "SYMPTOM"
+                    ],
+                    [
+                        183,
+                        193,
+                        "SYMPTOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "nthawi zina kachilomboka kamatha kuyambitsa matenda a chiwindi omwe pambuyo pake amatha kukhala cirrhosis chiwopsezo cha chiwindi kapena khansa ya chiwindi odwalawa ali pachiwopsezo cha imfa\r",
+            {
+                "entities": [
+                    [
+                        44,
+                        62,
+                        "DISEASE NAME"
+                    ],
+                    [
+                        137,
+                        155,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "akatemera otetezeka komanso ogwira mtima alipo oteteza kachilombo ka hepatitis b hbv katemerayu amalepheretsanso kukula kwa kachilombo ka hepatitis d hdv ndipo amaperekedwa pobadwa amachepetsa kwambiri chiopsezo chotenga kachilombo ka hiv kuchokera kwa mayi kupita kwa mwana\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "TREATMENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "matenda a hepatitis b osatha amatha kuthandizidwa ndi antivayirasi chithandizo chingachedwetse kukula kwa matenda a cirrhosis kuchepetsa kuchuluka kwa khansa ya mchiwindi komanso kukhala ndi moyo kwanthawi yayitali ndi anthu ochepa okha omwe ali ndi matenda a hepatitis b omwe amafunikira chithandizo\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        21,
+                        "DISEASE NAME"
+                    ],
+                    [
+                        106,
+                        125,
+                        "DISEASE NAME"
+                    ],
+                    [
+                        151,
+                        170,
+                        "DISEASE NAME"
+                    ],
+                    [
+                        250,
+                        271,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "katemera aliponso kuti ateteze matenda a chiwindi cha hepatitis e hev ngakhale kuti panopa sakupezeka paliponse\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "TREATMENT"
+                    ],
+                    [
+                        31,
+                        65,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "zilonda za mimba\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        16,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "zilonda zammimba zimachitika pamene asidi ammimba amadya kudzera mmimba mwako ndikupanga zilonda zizindikiro zake ndi monga kutentha mmimba kupweteka kudzimbidwa kutentha pamtima mseru ndi kusanza\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        16,
+                        "DISEASE NAME"
+                    ],
+                    [
+                        124,
+                        132,
+                        "SYMPTOM"
+                    ],
+                    [
+                        133,
+                        149,
+                        "SYMPTOM"
+                    ],
+                    [
+                        150,
+                        161,
+                        "SYMPTOM"
+                    ],
+                    [
+                        162,
+                        178,
+                        "SYMPTOM"
+                    ],
+                    [
+                        179,
+                        184,
+                        "SYMPTOM"
+                    ],
+                    [
+                        189,
+                        196,
+                        "SYMPTOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "zilonda zimachira pamene zinthu zomwe zimawayambitsa zachoka kapena odwalayo amatha kupatsidwa mankhwala opha tizilombo osiyanasiyana kutengera ndikukula kwa vuto lake\r",
+            {
+                "entities": [
+                    [
+                        95,
+                        119,
+                        "TREATMENT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        [
+            "malungo\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "malungo ndi matenda oopsa omwe amayamba chifukwa cha tizilombo toyambitsa matenda ndipo amafalitsidwa ndi udzudzu waukazi wotchedwa anopheles womwe umapezeka kwambiri mmadera otentha\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "zizindikiro nthawi zambiri zimawonekera patatha masiku 1015 mutalumidwa ndipo zimaphatikizapo kutentha thupi kupweteka kwa mutu ndi kuzizira zomwe zimakhala zovuta kwambiri zomwe zimayambitsa kutopa kwambiri kugwedezeka kupuma movutikira jaundice ndi kufa ngati sikunachiritsidwe\r",
+            {
+                "entities": [
+                    [
+                        94,
+                        108,
+                        "SYMPTOM"
+                    ],
+                    [
+                        109,
+                        127,
+                        "SYMPTOM"
+                    ],
+                    [
+                        132,
+                        140,
+                        "SYMPTOM"
+                    ],
+                    [
+                        192,
+                        198,
+                        "SYMPTOM"
+                    ],
+                    [
+                        208,
+                        219,
+                        "SYMPTOM"
+                    ],
+                    [
+                        220,
+                        237,
+                        "SYMPTOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "chithandizo chothandiza kwambiri cha malungo a p falciparum ndi mankhwala ophatikizira opangidwa ndi artemisinin act pomwe chloroquine imagwiritsidwa ntchito pa p vivax mmalo omwe imakhalabe yothandiza\r",
+            {
+                "entities": [
+                    [
+                        37,
+                        44,
+                        "DISEASE NAME"
+                    ],
+                    [
+                        64,
+                        73,
+                        "TREATMENT"
+                    ]
+                ]
+            }
+        ],
+        null,
+        null,
+        [
+            "chibayo\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "chibayo ndi mtundu wa matenda owopsa a kupuma omwe amayamba chifukwa cha ma virus kapena mabakiteriya zitha kuyambitsa matenda owopsa kwa anthu amisinkhu yonse komabe ndizomwe zimayambitsa kufa kwa ana padziko lonse lapansi\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "malingana ndi kuopsa kwa chibayo zizindikiro zingaphatikizepo chifuwa kupuma pangono kutentha thupi kutuluka thukuta ndi kunjenjemera kutopa kupweteka pachifuwa mseru kusanza kapena kutsekula mmimba\r",
+            {
+                "entities": [
+                    [
+                        25,
+                        32,
+                        "DISEASE NAME"
+                    ],
+                    [
+                        62,
+                        69,
+                        "SYMPTOM"
+                    ],
+                    [
+                        70,
+                        84,
+                        "SYMPTOM"
+                    ],
+                    [
+                        85,
+                        99,
+                        "SYMPTOM"
+                    ],
+                    [
+                        100,
+                        116,
+                        "SYMPTOM"
+                    ],
+                    [
+                        121,
+                        133,
+                        "SYMPTOM"
+                    ],
+                    [
+                        134,
+                        140,
+                        "SYMPTOM"
+                    ],
+                    [
+                        141,
+                        160,
+                        "SYMPTOM"
+                    ],
+                    [
+                        161,
+                        166,
+                        "SYMPTOM"
+                    ],
+                    [
+                        167,
+                        174,
+                        "SYMPTOM"
+                    ],
+                    [
+                        182,
+                        198,
+                        "SYMPTOM"
+                    ]
+                ]
+            }
+        ],
+        [
+            "chibayo chikhoza kuchiritsidwa ndi maantibayotiki ngati ndi bakiteriya ma antibiotic omwe amasankhidwa ndi mapiritsi a amoxicillin dispersible nthawi zambiri chibayo chimafuna maantibayotiki amkamwa omwe nthawi zambiri amaperekedwa kuchipatala matendawa amathanso kuzindikiridwa ndikuchiritsidwa ndi maantibayotiki otsika mtengo pagulu ndi ogwira ntchito zachipatala ophunzitsidwa bwino kugonekedwa mchipatala tikulimbikitsidwa pokhapokha pazovuta za chibayo\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "DISEASE NAME"
+                    ],
+                    [
+                        158,
+                        165,
+                        "DISEASE NAME"
+                    ],
+                    [
+                        176,
+                        190,
+                        "TREATMENT"
+                    ],
+                    [
+                        451,
+                        458,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "kupumula ndi kuthirira madzi ambiri kungathandizenso anthu kuchira msanga\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "TREATMENT"
+                    ],
+                    [
+                        13,
+                        35,
+                        "TREATMENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "anthu a misinkhu yonse amatha kuchepetsa chiopsezo cha chibayo mwa\r",
+            {
+                "entities": [
+                    [
+                        55,
+                        62,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "katemera katemera wa hib pneumococcus chikuku fuluwenza ndi chifuwa chachikulu pertussis ndiyo njira yabwino kwambiri yopewera chibayo\r",
+            {
+                "entities": [
+                    [
+                        9,
+                        37,
+                        "TREATMENT"
+                    ],
+                    [
+                        38,
+                        45,
+                        "DISEASE NAME"
+                    ],
+                    [
+                        127,
+                        134,
+                        "DISEASE NAME"
+                    ]
+                ]
+            }
+        ]
+    ]
+}
